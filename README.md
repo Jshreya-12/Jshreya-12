@@ -31,6 +31,30 @@ Alongside core analytics, I also explore practical GenAI use cases where it help
 - **Customer Segmentation & Retention Analysis** — Identified early churn patterns by building cohort and retention analyses to understand customer behavior over time.
 
 
-  
+  ## 🛠️ Skills
+
+### Programming & Analysis
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-lightgrey?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-lightgrey?logo=numpy)
+<br>
+
+### Visualization & Reporting
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel&logoColor=white)
+<br>
+
+### Data & Platforms
+![Snowflake](https://img.shields.io/badge/Snowflake-lightblue?logo=snowflake)
+![Cloud](https://img.shields.io/badge/Cloud%20Data-lightgrey)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter&logoColor=white)
+<br>
+
+### GenAI (Supportive Use)
+![LLMs](https://img.shields.io/badge/LLMs-Documentation%20%26%20Summaries-lightblue)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented-lightgrey)
+
 
 
