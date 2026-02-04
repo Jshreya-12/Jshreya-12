@@ -5,24 +5,21 @@ I work on data analysis and reporting projects focused on making data cleaner, m
 
 Alongside core analytics, I also explore practical GenAI use cases where it helps with documentation, summaries, or analysis support—without replacing foundational data work.
 
-# What I work on
+## What I work on
 - Cleaning and validating datasets  
 - Writing SQL queries for analysis and aggregation  
 - Building dashboards in Power BI and Tableau  
 - Creating repeatable reporting and analysis workflows  
-- Using GenAI tools to assist with documentation and insight summaries  
+- Using GenAI tools to assist with documentation and insight summaries
 
-# Tools
-- SQL, Python  
-- Power BI, Tableau  
-- Jupyter Notebook  
-- Cloud data platforms  
-- Basic GenAI workflows (LLMs for summaries and documentation support)
+  ## 🎓 Education
 
-### Selected Projects
-- Business Operations KPI Dashboard  
-- Retail & E-commerce Data Analysis  
-- Python Data Processing Scripts  
-- AI Documentation Assistant  
+- 🎓 **Master’s in Computer & Information Science**  
+  SUNY Polytechnic Institute | Jan 2023 – Dec 2024  
 
-This GitHub contains examples of my analysis workflows, dashboards, and small GenAI-supported tools.
+- 🎓 **Bachelor’s in Computer & Information Science**  
+  Sri Indu College of Engineering & Technology | Jul 2018 – Aug 2022
+
+  
+
+
