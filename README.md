@@ -1,4 +1,5 @@
-#👋 Hi, I’m Shreya
+
+# Hi, I’m Shreya
 
 I work on data analysis and reporting projects focused on making data cleaner, more consistent, and easier to reuse over time. Most of my work involves SQL- and Python-based analysis, dashboarding, and building structured reporting workflows.
 
