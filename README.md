@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 Hi, I’m Shreya
 
-<!--
-**Jshreya-12/Jshreya-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on data analysis and reporting projects focused on making data cleaner, more consistent, and easier to reuse over time. Most of my work involves SQL- and Python-based analysis, dashboarding, and building structured reporting workflows.
 
-Here are some ideas to get you started:
+Alongside core analytics, I also explore practical GenAI use cases where it helps with documentation, summaries, or analysis support—without replacing foundational data work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- Cleaning and validating datasets  
+- Writing SQL queries for analysis and aggregation  
+- Building dashboards in Power BI and Tableau  
+- Creating repeatable reporting and analysis workflows  
+- Using GenAI tools to assist with documentation and insight summaries  
+
+### Tools
+- SQL, Python  
+- Power BI, Tableau  
+- Jupyter Notebook  
+- Cloud data platforms  
+- Basic GenAI workflows (LLMs for summaries and documentation support)
+
+### Selected Projects
+- Business Operations KPI Dashboard  
+- Retail & E-commerce Data Analysis  
+- Python Data Processing Scripts  
+- AI Documentation Assistant  
+
+This GitHub contains examples of my analysis workflows, dashboards, and small GenAI-supported tools.
