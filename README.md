@@ -12,13 +12,24 @@ Alongside core analytics, I also explore practical GenAI use cases where it help
 - Creating repeatable reporting and analysis workflows  
 - Using GenAI tools to assist with documentation and insight summaries
 
-  ## 🎓 Education
+  ## 🎓 What I studied
 
 - 🎓 **Master’s in Computer & Information Science**  
   SUNY Polytechnic Institute | Jan 2023 – Dec 2024  
 
 - 🎓 **Bachelor’s in Computer & Information Science**  
   Sri Indu College of Engineering & Technology | Jul 2018 – Aug 2022
+
+  ## 🧩 Problems I’ve Worked On
+
+- **AI Documentation Assistant** — Reduced time spent understanding and navigating large codebases by generating structured, searchable documentation using AST parsing and LLMs.  
+
+- **Software Cost Estimation** — Standardized cost drivers and forecasting logic by consolidating historical project data into reproducible models for consistent cost estimation.  
+
+- **Business Operations KPI Dashboard** — Solved inconsistent performance tracking by unifying operational data into a single KPI model and reusable dashboards.  
+
+- **Customer Segmentation & Retention Analysis** — Identified early churn patterns by building cohort and retention analyses to understand customer behavior over time.
+
 
   
 
